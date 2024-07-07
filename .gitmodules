@@ -1,3 +1,6 @@
 [submodule "BiLSTMvsBiRNN-in-Medical_Imaging"]
 	path = BiLSTMvsBiRNN-in-Medical_Imaging
 	url = https://github.com/FarhanDipto/BiLSTMvsBiRNN-in-Medical_Imaging.git
+[submodule "MLvsDL-in-Medical_Imaging-BrainTumors"]
+	path = MLvsDL-in-Medical_Imaging-BrainTumors
+	url = https://github.com/FarhanDipto/MLvsDL-in-Medical_Imaging-BrainTumors.git
