@@ -1,0 +1,3 @@
+[submodule "BiLSTMvsBiRNN-in-Medical_Imaging"]
+	path = BiLSTMvsBiRNN-in-Medical_Imaging
+	url = https://github.com/FarhanDipto/BiLSTMvsBiRNN-in-Medical_Imaging.git
